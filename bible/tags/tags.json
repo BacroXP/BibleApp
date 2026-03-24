@@ -1,0 +1,17 @@
+[
+  {
+    "book": 1,
+    "name": "1 Mose",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "tags": ["Schöpfung", "Anfang", "Gott"]
+          }
+        ]
+      }
+    ]
+  }
+]
